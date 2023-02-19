@@ -9,5 +9,7 @@ All the operations involving power flow optimization and/or energy trading marke
 
 All the data files are stored in JSON format which makes it easy for both MATLAB, PYTHON and human users to read and process the data. Data and traffic profiles are in CSV format.
 
+![This is an image](https://github.com/dpnkr-s/SmartGrid-Prosumer-simulator/blob/main/images/smart%20grid%20system.png)
+
 ### Overview of simulation system
 
